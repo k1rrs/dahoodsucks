@@ -84,7 +84,7 @@ end)
 
 
 
-local library = loadstring(game:HttpGet("http://cindering.xyz/message.txt"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/smokin4ngelzwun/dahoodsucks/main/gui%20setup.txt"))()
 local win = library:AddWindow('Da Hood Sucks | Da Hood | RightShift toggle key')
 
 local tab1 = win:AddTab("Aiming")
